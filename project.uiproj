@@ -1,0 +1,6 @@
+{
+  "Name": "Hackathon",
+  "ProjectType": "Process",
+  "Description": "Acumatica process for O2C hackathon",
+  "MainFile": "Main.xaml"
+}
