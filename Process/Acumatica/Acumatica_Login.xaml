@@ -99,19 +99,19 @@
       <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Acumatica_Logn" sap:VirtualizedContainerService.HintSize="1021.2,1128" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Acumatica_Logn" sap:VirtualizedContainerService.HintSize="1021.2,1200" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Acumatica - Login" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="451.2,1104.8" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="b169cc07-64e0-482f-a884-4f034d90e3e0" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Acumatica - Login" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="451.2,1176.8" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="b169cc07-64e0-482f-a884-4f034d90e3e0" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,911.2" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,983.2" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <Sequence.Variables>
               <Variable x:TypeArguments="x:String" Name="AcumaticaUsername" />
               <Variable x:TypeArguments="ss:SecureString" Name="AcumaticaPassword" />
@@ -158,10 +158,20 @@
                 </uix:VerifyExecutionTypeIntoOptions>
               </uix:NTypeInto.VerifyOptions>
             </uix:NTypeInto>
-            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Sign In'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,184.8" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="b169cc07-64e0-482f-a884-4f034d90e3e0" Version="V5">
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Sign In'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,256.8" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="b169cc07-64e0-482f-a884-4f034d90e3e0" Version="V5">
               <uix:NClick.Target>
                 <uix:TargetAnchorable BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Frames/Login.aspx" ContentHash="paSi1mQhQ0-a2toz65VRJQ" DesignTimeRectangle="1335, 632, 110, 50" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='btnLogin' tag='INPUT' /&gt;" Guid="cf4f72aa-2ade-4ba0-9b8e-6efac666b732" InformativeScreenshot="a7e92c9bb59b24c34ee036d57907e87d.jpg" Reference="u6ZXUWYyBUSJ2aUMVP7akg/gBzSFtsbykuFSVJxn9XscA" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Acumatica - Login' /&gt;" SearchSteps="Selector" Version="V6" />
               </uix:NClick.Target>
+              <uix:NClick.VerifyOptions>
+                <uix:VerifyExecutionOptions Mode="Appears">
+                  <uix:VerifyExecutionOptions.Target>
+                    <uix:TargetAnchorable BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Main" ContentHash="v_0VbJDAbUSFxvRf2tI3ig" DesignTimeRectangle="9, 117, 263, 63" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" Guid="81a2a01e-fef5-4a74-b49e-4448235a8da5" InformativeScreenshot="57c177db44d97b432689824f825e2995.jpg" Reference="u6ZXUWYyBUSJ2aUMVP7akg/6YJEmLb9OE22nuQl3jynCw" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Opportunities' /&gt;" SearchSteps="Selector" Version="V6" />
+                  </uix:VerifyExecutionOptions.Target>
+                  <uix:VerifyExecutionOptions.Timeout>
+                    <InArgument x:TypeArguments="x:Double" />
+                  </uix:VerifyExecutionOptions.Timeout>
+                </uix:VerifyExecutionOptions>
+              </uix:NClick.VerifyOptions>
             </uix:NClick>
           </Sequence>
         </ActivityAction>
