@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Acumatica - Login",
+  "Type": "Screen",
+  "Id": "yCqmO8L-TkeAaoYc4d8GJg",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/yCqmO8L-TkeAaoYc4d8GJg",
+  "ParentRef": "u6ZXUWYyBUSJ2aUMVP7akg/Nk_gCJ3riEKCqz31e37E8Q",
+  "Created": "2026-10-05T15:36:28.5975271Z",
+  "Updated": "2026-10-05T15:36:28.5975271Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TUEf8_w2rEC57flTdksOUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Frames/Login.aspx" DesignTimeRectangle="1335, 494, 525, 50" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='txtUser' tag='INPUT' type='text' class='login_user border-box' placeholder='Username' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ae3238a7-9e1c-45e6-bde7-99a912ccd3cf" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Acumatica - Login' /&gt;" SearchSteps="FuzzySelector" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1335, 443, 525, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='lblSignIn' tag='SPAN' type='' class='signin_caption' aaname='Enter credentials' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Enter credentials' /&gt;" Guid="55048337-666e-4c2c-bb92-7b9ce766751d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cae98d81eb4a5f169c82bbd47561c567.jpg" xmlns="">0wrObvlFvZECF2kuy9oUpgA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

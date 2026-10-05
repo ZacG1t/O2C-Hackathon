@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT txtPass",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "dOOflgBxgEOFm9LaKknbjQ",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/dOOflgBxgEOFm9LaKknbjQ",
+  "ParentRef": "u6ZXUWYyBUSJ2aUMVP7akg/yCqmO8L-TkeAaoYc4d8GJg",
+  "Created": "2026-10-05T15:37:59.1932812Z",
+  "Updated": "2026-10-05T15:37:59.1932812Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HZ6vNoSN0Uezk7MHl2RWiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Frames/Login.aspx" DesignTimeRectangle="1335, 563, 525, 50" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='txtPass' tag='INPUT' /&gt;" Guid="40bdc46d-3d66-426f-9c7e-eb7d0fcb6817" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Acumatica - Login' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="16751c83592d39577285f1aaf57959c6.jpg" xmlns="">0apWmolVxpka-oEwtqC5NuQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

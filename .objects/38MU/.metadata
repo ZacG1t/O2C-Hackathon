@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Acumatica - Login",
+  "Type": "App",
+  "Id": "38MU_xRB8E24vyh-RHpoog",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/38MU_xRB8E24vyh-RHpoog",
+  "Created": "2026-10-05T15:36:28.1236528Z",
+  "Updated": "2026-10-05T15:36:28.1236528Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
