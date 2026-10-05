@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rk28M_jS7EaCoj8MeM_jgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Frames/Login.aspx" DesignTimeRectangle="1335, 142, 313, 78" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='LoginLogoImg' tag='IMG' /&gt;" Guid="b9681c2b-6d95-4ce5-a6f3-b4d92c82edde" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Acumatica - Login' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="dfbbc2377e69111cbf39d47954024c58.jpg" xmlns="">0z9_ougOsrEOdFF2u1ehLOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

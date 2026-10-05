@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Sign In'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "6YJEmLb9OE22nuQl3jynCw",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/6YJEmLb9OE22nuQl3jynCw",
+  "ParentRef": "u6ZXUWYyBUSJ2aUMVP7akg/PN5XouEl0U611AtM7z4N-g",
+  "Created": "2026-10-05T15:41:56.1852889Z",
+  "Updated": "2026-10-05T15:41:56.1852889Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
