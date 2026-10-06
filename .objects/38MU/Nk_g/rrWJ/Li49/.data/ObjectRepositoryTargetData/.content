@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qyeKmX38FkmDE0CpmyAZOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Main" DesignTimeRectangle="516, 400, 155, 40" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='main' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='edOpportunity-OpportunityID_text' tag='INPUT' type='text' class='au-target qp-text-editor' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="1c59c086-c3e7-4208-9690-e22bfd561689" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Opportunities' /&gt;" SearchSteps="FuzzySelector" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="314, 399, 113, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='main' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='phF_form_PXLayoutRule0' tag='LABEL' type='' class='au-target clickable' aaname=' &amp;#x9;&amp;#x9;&amp;#x9;Opportunity ID &amp;#x9;&amp;#x9;' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Opportunity ID' /&gt;" Guid="61afaf7a-4620-40db-a246-09e87df31e15" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bb3166c553408693f68e7fe77a31c19d.jpg" xmlns="">0H0MiImYkDku5rTGAxKBVrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

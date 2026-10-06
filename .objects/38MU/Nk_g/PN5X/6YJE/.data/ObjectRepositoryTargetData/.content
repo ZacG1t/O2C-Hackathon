@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="v_0VbJDAbUSFxvRf2tI3ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="709mf_oH-UeLLr1pv3Em0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Main" DesignTimeRectangle="9, 117, 263, 63" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" Guid="81a2a01e-fef5-4a74-b49e-4448235a8da5" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Opportunities' /&gt;" SearchSteps="Selector" Version="V6">
-      <imageRef attrName="InformativeScreenshot" originalValue="57c177db44d97b432689824f825e2995.jpg" xmlns="">0Y9EHRZ1bgEOax0wciqlLFw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/(W(2))/Main" DesignTimeRectangle="293, 205, 160, 28" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='main' tag='IFRAME' /&gt;&lt;webctrl id='usrTitle' tag='A' /&gt;" Guid="ba973c2b-2ccf-415b-8916-d86b1658cf04" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='2' title='Customer View' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="deb8a0436e8e2619d7814bb6fcf2e2d5.jpg" xmlns="">0TMQGJZwF3kqMFLjZgWnpeA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>

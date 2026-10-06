@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6CvDXyILC0W4uDwAS9QpvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/Main" DesignTimeRectangle="890, 757, 74, 42" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='main' tag='IFRAME' /&gt;&lt;webctrl id='tab_tabQuotes_tabbar' tag='DIV' /&gt;" Guid="097c7632-ca67-4681-a188-5809e8c8d021" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='0' title='Opportunities' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="9cbef939dee5d93db8ca55318091e735.jpg" xmlns="">0AlID9Zdiuk-j4YrVdRIgGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

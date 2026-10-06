@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Chrome Opportunities(1)",
+  "Type": "Screen",
+  "Id": "QxUtArBNy0Cs6p5BqhQa9A",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/QxUtArBNy0Cs6p5BqhQa9A",
+  "ParentRef": "u6ZXUWYyBUSJ2aUMVP7akg/Nk_gCJ3riEKCqz31e37E8Q",
+  "Created": "2026-10-06T05:31:42.9653745Z",
+  "Updated": "2026-10-06T08:37:15.3323711Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YnZkoCkOrUWxXGMileI3Qg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/(W(16))/Main" DesignTimeRectangle="506, 477, 95, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='main' tag='IFRAME' /&gt;&lt;webctrl aaname='Approved' parentid='edQuote-Status' tag='SPAN' innertext='Approved' /&gt;" Guid="8ad9764a-00c2-46d1-be8d-c7ba765b7910" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sales Quotes' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="43e8ef981cd60e8596e49129f41622ee.jpg" xmlns="">0TzKZ3rEn1UqyFdOnjLoUXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

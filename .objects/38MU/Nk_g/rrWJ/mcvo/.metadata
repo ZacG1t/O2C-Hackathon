@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Click ''New Opportunity''",
+  "Type": "Element",
+  "Id": "mcvooIP4MEOaXwoQSdmOTQ",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/mcvooIP4MEOaXwoQSdmOTQ",
+  "ParentRef": "u6ZXUWYyBUSJ2aUMVP7akg/rrWJfbk-jEqnGoBrTyMRHg",
+  "Created": "2026-10-06T05:22:22.3101587Z",
+  "Updated": "2026-10-06T05:22:22.3101587Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

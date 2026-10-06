@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="6ok8kTNNTUijW-8y1DRCGg" Reference="u6ZXUWYyBUSJ2aUMVP7akg/qGb-5lVsP0mTa9CbUIPW2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1158" BrowserType="Chrome" ContentHash="MfMdEPPTjkC7ebobTzj8eQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAOlSURBVFhHvZc9axVBFIYvIiIiEkRERNyBrewiWGtawSJgZyEpUwqCnRCwsAxaCymtJNiKkE7sbmebxj74C1aeyTzruYd794YQHDjM7uzMed/zNTM7m52x9V3Z7ruy33dl3ndlWCInfVeO+q686rtS8vpztb4rG31X9vquHAv04umd4cPrjSo/P10dvry/Xp/fvLw1PHl0LxKCzFbWeebGYoEBBejP90vD8GO2IN8+XhtJ8f776+Xh3e7N4eGD+xI5xJCsf7I1V1eLAMiggEiGOVgP4LPHd8dxeoiE8GxmnKWt78oBi3af315qMYK1AOIVesYIB+siCcebN9aT0HIsyqAKHgFEDzH34O2NSoZnSUTP/fp8ZT2JluXV8gyKAAAgAgBKcTHhIAcAADQk4TgvkSCvFnOiZfsJyrPbeUcR3wCUBFajEHBIMMcwZIG83mtj+5kApVYVZMvxiC4FFEIC4XLAFYAyeA4H+tq3071C67EkgwPIZNxH4sU6RzEeYR3z6CHmHCtDD6BDok3HgQR2GMjl5saiV8x4gFQqEN8Z9xlC9HjL0KnTuRgtgUNLKYIjMR8AhAwuNO4QcA5jetHNyXA5bh9CtQWB4+h+2McyBAhQ3Y3wzBzXAYTCqMfcEVDDIBTCsAeBcRtFkYnFe9zz8RLj5oV54LxIgN69Am9IQH08j3kQCRh3wADSiggqUExQS1OSWsiYu2Ym0PLgaIGArmWhcTSbmQOoO6FJaUlGcEPgpsZ39U8S0AvuYCrhu/FHeOc7z2GvX9ADWQyRgPOd08r1lIBlgpAHKGSB9ctkF1vnJiPzzWpzgHmOScCQWaItnDUJ5yaTgputefp4PjiGApMLsTx9bgAjmGswCGnfd8YT0NgpZjzkdJvEAKC3zplL7zx6dDIvng+GJNwTCgQ2o2uyoMD61TKrxEMqr5eApCWQ4j+Ph9Exg/kkVDwF3f+x2AoRxFJzF43vko75Ut0fCNTzIGZxFN2Y3yXsXSGehhAMsa4kPRtW3Qm4xY4XiCxYTwgAiQnnfUEgxXLmOR5G7fv2AngjUDih3FAyAd0Xj2DG3SPoY7zNesGDd06P4WWtXcWrm1Z5YkpMPgl4xAdwfmqmr+jtblg9ke8IU4LXWINABI95uJ0Z3NZKc/wpWRaSLJD18oKYmGvdvqqF37KqBCIonSIDAUu2rcOI8/+e0VpysluO/4du08qSKqCi/tX5RbUWGv5+IQRIFLzFfnIxf8b/q/0FSllNJfPJvVoAAAAASUVORK5CYII=" Reference="u6ZXUWYyBUSJ2aUMVP7akg/qGb-5lVsP0mTa9CbUIPW2w" Selector="&lt;html app='chrome.exe' title='Foreign Exchange Counter Rates | Maybank Malaysia' /&gt;" Url="https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/rates/forex_rates.page" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="1afc7a871bb6197cf89b0a8a9a6d81e3.jpg" xmlns="">0VDMhHE3aoUKElnKdJj0Shw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

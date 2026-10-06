@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Foreign Exchange Counter Rates  Maybank Malaysia",
+  "Type": "App",
+  "Id": "bWk3807AfUOkTgg9XcIJSQ",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/bWk3807AfUOkTgg9XcIJSQ",
+  "Created": "2026-10-06T06:01:57.4334287Z",
+  "Updated": "2026-10-06T06:01:57.4334287Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

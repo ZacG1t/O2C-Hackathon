@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Customer View",
+  "Type": "Screen",
+  "Id": "xGHArT9-LkWcZRjYNc9z2Q",
+  "Reference": "u6ZXUWYyBUSJ2aUMVP7akg/xGHArT9-LkWcZRjYNc9z2Q",
+  "ParentRef": "u6ZXUWYyBUSJ2aUMVP7akg/Nk_gCJ3riEKCqz31e37E8Q",
+  "Created": "2026-10-06T01:25:49.5887696Z",
+  "Updated": "2026-10-06T01:25:49.5887696Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

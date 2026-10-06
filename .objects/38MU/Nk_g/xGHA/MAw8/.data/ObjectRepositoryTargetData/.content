@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2OVuQ5p0M0aLvldF52KnKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="desktop-fr6str2.taild5f406.ts.net/acumatica/(W(18))/Main" DesignTimeRectangle="293, 195, 375, 48" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='main' tag='IFRAME' /&gt;&lt;webctrl parentid='usrScreenTitle' tag='DIV' /&gt;" Guid="34aa79ca-e40a-40ef-9135-72ed9bdfbe8a" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='18' title='Opportunities' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="7257b004df3ac8289e6dba7714dace6c.jpg" xmlns="">0xqngMDsz6U6HKjapP7wsTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
